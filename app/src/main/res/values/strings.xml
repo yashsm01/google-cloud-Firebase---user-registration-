@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">yash home automation</string>
+    <string name="yash_industries">YASH INDUSTRIES</string>
+    <string name="login">Login</string>
+    <string name="ON">ON</string>
+    <string name="OFF">OFF</string>
+    <string name="back">back</string>
+</resources>

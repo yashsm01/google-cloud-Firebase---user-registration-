@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "642742573089",
+    "firebase_url": "https://yash-home-automation.firebaseio.com",
+    "project_id": "yash-home-automation",
+    "storage_bucket": "yash-home-automation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642742573089:android:6115de9ab69be9bff12b60",
+        "android_client_info": {
+          "package_name": "com.example.yashhomeautomation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642742573089-0d00cp0vu08kicnhvc96jjt2bi61f89c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChHpiE1jAMcIsjTYTjdCD8xewWLaqCUBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642742573089-0d00cp0vu08kicnhvc96jjt2bi61f89c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
