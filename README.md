@@ -1,9 +1,12 @@
 # google-cloud-Firebase---user-registration-
 create own application where we save user detail and provide great user experience with using google cloud service
+
 step 1:- 
+
     android studio > Tools > Firebase > Authentication > create your project.
 
 step 2:- 
+
     1. Create now empity Activity:
     2.name it Register
 
